@@ -1,0 +1,8 @@
+Django==3.2.11
+pip install django-allauth
+pip install djangorestframework
+pip install django-filter
+pip install django-cors-headers
+pip install django-rest-auth
+pip install psycopg2
+pip install django-currentuser
